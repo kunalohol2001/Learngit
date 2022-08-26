@@ -3,3 +3,4 @@ k = int(input("Enter number"))
 
 o = n + k
 print(o)
+print(n)
